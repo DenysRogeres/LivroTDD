@@ -1,0 +1,16 @@
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\Capitulo7.exe
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\Capitulo7.deps.json
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\Capitulo7.runtimeconfig.json
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\Capitulo7.runtimeconfig.dev.json
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\Capitulo7.dll
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\ref\Capitulo7.dll
+C:\dev\LivroTDD\Capitulo7\bin\Debug\net5.0\Capitulo7.pdb
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.csproj.AssemblyReference.cache
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.AssemblyInfoInputs.cache
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.AssemblyInfo.cs
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.csproj.CoreCompileInputs.cache
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.dll
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\ref\Capitulo7.dll
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.pdb
+C:\dev\LivroTDD\Capitulo7\obj\Debug\net5.0\Capitulo7.genruntimeconfig.cache
