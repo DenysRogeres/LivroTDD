@@ -37,6 +37,29 @@ namespace Test.Capitulo7
             double salario = calculadora.CalculaSalario(desenvolvedor);
 
             Assert.AreEqual(4500 * 0.75, salario);
+        }
+
+
+        [TestMethod]
+        public void DeveCalcularSalarioParaQAsComSalarioAbaixoDoLimite()
+        {
+            CalculadoraDeSalario calculadora = new CalculadoraDeSalario();
+            Funcionario desenvolvedor = new Funcionario("Mauricio", 1500.0, Cargo.TESTADOR);
+
+            double salario = calculadora.CalculaSalario(desenvolvedor);
+
+            Assert.AreEqual(1500.0 * 0.85, salario);
+        }
+
+        [TestMethod]
+        public void DeveCalcularSalarioParaQAsComSalarioAcimaDoLimite()
+        {
+            CalculadoraDeSalario calculadora = new CalculadoraDeSalario();
+            Funcionario desenvolvedor = new Funcionario("Mauricio", 4500.0, Cargo.TESTADOR);
+
+            double salario = calculadora.CalculaSalario(desenvolvedor);
+
+            Assert.AreEqual(4500 * 0.75, salario);
 
         }
     }

@@ -12,22 +12,32 @@ namespace Capitulo7
         {
             if(funcionario.Cargo.Equals(Cargo.DESENVOLVEDOR))
             {
-                if (funcionario.Salario > 3000)
-                {
-                    return funcionario.Salario*0.8;
-                }
-                return funcionario.Salario * 0.9;
+                return DezOuVintePorCentoDeDesconto(funcionario);
             }
 
-            else if(funcionario.Cargo.Equals(Cargo.DBA))
+            else if(funcionario.Cargo.Equals(Cargo.DBA) || funcionario.Cargo.Equals(Cargo.TESTADOR))
             {
-                if(funcionario.Salario > 2500)
-                {
-                    return funcionario.Salario * 0.75;
-                }
-                return funcionario.Salario * 0.85;
+                return QuinzeOuVinteCincoPorCentoDeDesconto(funcionario);
             }
             throw new Exception("Funcionario invalido");
+        }
+
+        public double QuinzeOuVinteCincoPorCentoDeDesconto(Funcionario funcionario)
+        {
+            if (funcionario.Salario > 2500)
+            {
+                return funcionario.Salario * 0.75;
+            }
+            return funcionario.Salario * 0.85;
+        }
+
+        public double DezOuVintePorCentoDeDesconto(Funcionario funcionario)
+        {
+            if (funcionario.Salario > 3000)
+            {
+                return funcionario.Salario * 0.8;
+            }
+            return funcionario.Salario * 0.9;
         }
     }
 }
