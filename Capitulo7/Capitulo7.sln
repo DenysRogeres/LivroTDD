@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo7", "Capitulo7.csproj", "{52A5C1F8-50A6-4674-A2E6-669D33B40FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capitulo9", "Capitulo9.csproj", "{52A5C1F8-50A6-4674-A2E6-669D33B40FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Capitulo7", "..\Test.Capitulo7\Test.Capitulo7.csproj", "{F9145098-4DF8-4A08-93FD-D3C4BCD77534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Capitulo9", "..\Test.Capitulo7\Test.Capitulo9.csproj", "{F9145098-4DF8-4A08-93FD-D3C4BCD77534}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB3BF09D-D4EE-4729-A0EC-37C6CB1D6C44}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

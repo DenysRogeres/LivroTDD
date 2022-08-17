@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8bUcHPttYmu0rAUOWa4BxCe1Bv2ALP5eamGAhP/zgLPQMa7uR+vJr4ktGfgLi5kOEZQVS9zyfGoHP4wI1Tvh6g==",
+  "dgSpecHash": "QwDCQDOcpFaIACs3le1C0x1ZRiXRcQ7J76nF98Sb2DLGVTSeH0sQEY5oOqYXdeGbG6/oTMd88+Qwv355R9T4vQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo7.csproj",
+  "projectFilePath": "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denys\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\denys\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",

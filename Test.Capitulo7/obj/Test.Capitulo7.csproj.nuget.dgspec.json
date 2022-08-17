@@ -4,12 +4,12 @@
     "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo7.csproj": {}
   },
   "projects": {
-    "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj": {
+    "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj",
-        "projectName": "Capitulo7",
-        "projectPath": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj",
+        "projectUniqueName": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj",
+        "projectName": "Capitulo9",
+        "projectPath": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj",
         "packagesPath": "C:\\Users\\denys\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\LivroTDD\\Capitulo7\\obj\\",
         "projectStyle": "PackageReference",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj": {
-                "projectPath": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj"
+              "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj": {
+                "projectPath": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj"
               }
             }
           }

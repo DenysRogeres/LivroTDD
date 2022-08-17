@@ -1766,14 +1766,14 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "Capitulo7/1.0.0": {
+      "Capitulo9/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Capitulo7.dll": {}
+          "bin/placeholder/Capitulo9.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Capitulo7.dll": {}
+          "bin/placeholder/Capitulo9.dll": {}
         }
       }
     }
@@ -6579,15 +6579,15 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "Capitulo7/1.0.0": {
+    "Capitulo9/1.0.0": {
       "type": "project",
-      "path": "../Capitulo7/Capitulo7.csproj",
-      "msbuildProject": "../Capitulo7/Capitulo7.csproj"
+      "path": "../Capitulo7/Capitulo9.csproj",
+      "msbuildProject": "../Capitulo7/Capitulo9.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Capitulo7 >= 1.0.0",
+      "Capitulo9 >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.CodeCoverage >= 17.2.0",
@@ -6601,9 +6601,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo7.csproj",
-      "projectName": "Test.Capitulo7",
-      "projectPath": "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo7.csproj",
+      "projectUniqueName": "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo9.csproj",
+      "projectName": "Test.Capitulo9",
+      "projectPath": "C:\\dev\\LivroTDD\\Test.Capitulo7\\Test.Capitulo9.csproj",
       "packagesPath": "C:\\Users\\denys\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\LivroTDD\\Test.Capitulo7\\obj\\",
       "projectStyle": "PackageReference",
@@ -6622,8 +6622,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj": {
-              "projectPath": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo7.csproj"
+            "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj": {
+              "projectPath": "C:\\dev\\LivroTDD\\Capitulo7\\Capitulo9.csproj"
             }
           }
         }
